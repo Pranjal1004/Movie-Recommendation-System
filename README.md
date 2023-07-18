@@ -3,7 +3,7 @@
 This is a Content-Based Recommender System that recommends movies similar to the movie user likes.
 
 # Files Description:
-1. I have the preprocessing in 4 stages in 4 separate files:
+1. I have done the preprocessing of data in 4 stages in 4 separate files:
     1. The file "preprocessing movie data up to 2016 (1).ipynd" is jupyter source file where all the preprocessing of movie
           data upto the year 2016 is done and then saved in the CSV file "movie_data.csv".
     2. Similarly, the file "preprocessing movie data up to 2017 (2).ipynd" is another file where the preprocessing of movie
