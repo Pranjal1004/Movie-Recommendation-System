@@ -1,0 +1,5 @@
+- movie_metadata, movies_metadata, credits are the datasets that I have used to create other data sets after preprocessing.
+- movie_metadata has data for movies upto 2016
+- movies_metadata and credits have data for movies upto 2017
+- after that I have done web scrapping
+- Reviews dataset I have used for Sentimental Analysis
