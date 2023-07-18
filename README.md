@@ -11,7 +11,7 @@ This is a Content-Based Recommender System that recommends movies similar to the
             "movie_data_upto_2017.csv".
     3. Similarly, "movie_data_upto_2021.csv", "movie_data_upto_2022_march.csv" contain prepocessed data upto 2021 and 2022 to respecively.
 2. After this in the "main.ipynb" file I have used the final preprocessed data "movie_data_upto_2022_march.csv" to recommend movies using cosine similarity.
-3. Then in the file "Sentiment Analysis.ipynb", I have performed the sentimental analysis using the data from "reviews.txt" file.
+3. Then in the file "Sentiment Analysis.ipynb", I have performed the sentimental analysis using the data from "reviews.txt" file. The model that I have used "Multinomial Naive Bayes".
    
 # Similarity Score
 It is a numerical value ranging between zero to one which helps to determine how much two items are similar on a scale of zero to one. This similarity score is obtained by measuring the similarity between the text details of both items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
