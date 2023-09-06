@@ -25,8 +25,6 @@ The cosine similarity is advantageous because even if the two similar documents 
 ![image](https://github.com/Pranjal1004/Movie-Recommendation-System/assets/103432960/a3140414-caca-4991-9f68-653160360b6d)
 ![6218c43769249759cece5473_Engati-Cosine-Similarity (1)](https://github.com/Pranjal1004/Movie-Recommendation-System/assets/103432960/9e6b0e5f-ebf8-4810-8b17-9a23bc26ab0e)
 
-# Webpage URL: 
-http://192.168.1.7:8501
 
 # Sources of Datasets:
 1. <a href="https://en.wikipedia.org/wiki/List_of_American_films_of_2022">
